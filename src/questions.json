@@ -30,110 +30,116 @@
             },
             {
               "id": 3,
-              "questions": "What does the Constitution do?",
+              "questions": "The idea of self-government is in the first three words of the constitution. What are these words?",
               "options": [
-                "Sets up the government",
-                "Defines the government",
-                "Protects basic rights of Americans",
-                "All of the above"
+                "We the People",
+                "The American People",
+                "We the Citizens",
+                "United States Government"
               ],
-              "answer": "All of the above"
+              "answer": "We the People"
             },
             {
               "id": 4,
-              "questions": "What does the Constitution do?",
+              "questions": "What is an amendment?",
               "options": [
-                "Sets up the government",
-                "Defines the government",
-                "Protects basic rights of Americans",
-                "All of the above"
+                "a change (to the Constitution)",
+                "an addition (to the Constitution)",
+                "a federal law passed by Congress",
+                "a declaration of war"
               ],
-              "answer": "All of the above"
+              "answer": [
+                "a change (to the Constitution)",
+                "an addition (to the Constitution"
+              ]
             },
             {
               "id": 5,
-              "questions": "What does the Constitution do?",
+              "questions": "What do we call the first ten amendments to the Constitution?",
               "options": [
-                "Sets up the government",
-                "Defines the government",
-                "Protects basic rights of Americans",
-                "All of the above"
+                "The Bill of Rights",
+                "The Declaration of Independence",
+                "The Articles of Confederation",
+                "The Federalist Papers"
               ],
-              "answer": "All of the above"
+              "answer": "The Bill of Rights"
             },
             {
               "id": 6,
-              "questions": "What does the Constitution do?",
+              "questions": "What is one right of freedom from the First Amendment?",
               "options": [
-                "Sets up the government",
-                "Defines the government",
-                "Protects basic rights of Americans",
+                "Speech",
+                "religion",
+                "assembly",
+                "press",
+                "petition the government",
                 "All of the above"
               ],
               "answer": "All of the above"
             },
             {
               "id": 7,
-              "questions": "What does the Constitution do?",
+              "questions": "How many amendments does the Constitution have?",
               "options": [
-                "Sets up the government",
-                "Defines the government",
-                "Protects basic rights of Americans",
-                "All of the above"
+                "twenty-seven (27)",
+                "twenty (20)",
+                "ten (10)",
+                "thirty-three (33)"
               ],
-              "answer": "All of the above"
+              "answer": "twenty-seven (27)"
             },
             {
               "id": 8,
-              "questions": "What does the Constitution do?",
+              "questions": "What did the Declaration of Independence do?",
               "options": [
-                "Sets up the government",
-                "Defines the government",
-                "Protects basic rights of Americans",
+                "announced our independence (form Great Britain)",
+                "declared our independence (from Great Britain)",
+                "said that the United States is free (from Great Britain)",
                 "All of the above"
               ],
               "answer": "All of the above"
             },
             {
               "id": 9,
-              "questions": "What does the Constitution do?",
+              "questions": "What are two rights in the Declaration of Independence?",
               "options": [
-                "Sets up the government",
-                "Defines the government",
-                "Protects basic rights of Americans",
+                "lfie",
+                "liberty",
+                "pursuit of happiness",
                 "All of the above"
               ],
               "answer": "All of the above"
             },
             {
               "id": 10,
-              "questions": "What does the Constitution do?",
+              "questions": "What is freedom of religion?",
               "options": [
-                "Sets up the government",
-                "Defines the government",
-                "Protects basic rights of Americans",
-                "All of the above"
+                "You can practice any religion, or not practice a religion",
+                "You must practice a religion",
+                "The government decides your religion",
+                "Only certain religions are allowed"
               ],
-              "answer": "All of the above"
+              "answer": "You can practice any religion, or not practice a religion"
             },
             {
               "id": 11,
-              "questions": "What does the Constitution do?",
+              "questions": "What is the economic systems in the United States?",
               "options": [
-                "Sets up the government",
-                "Defines the government",
-                "Protects basic rights of Americans",
-                "All of the above"
+                "capitalist economy",
+                "market economy",
+                "communist economy",
+                "planned economy"
               ],
-              "answer": "All of the above"
+              "answer": ["capitalist economy", "market economy"]
             },
             {
               "id": 12,
-              "questions": "What does the Constitution do?",
+              "questions": "What is the 'rule of law'?",
               "options": [
-                "Sets up the government",
-                "Defines the government",
-                "Protects basic rights of Americans",
+                "Everyone must follow the law.",
+                "leaders must obey the law",
+                "Government must obey the law",
+                "No one is above the law",
                 "All of the above"
               ],
               "answer": "All of the above"
@@ -146,20 +152,36 @@
             {
               "id": 13,
               "question": "Name one branch or part of the government.",
-              "options": ["Congress", "Parliament", "Supreme Leader", "Crown"],
+              "options": [
+                "Congress",
+                "legislative",
+                "Parliament",
+                "Supreme Leader",
+                "Crown"
+              ],
               "answer": "Congress"
             },
             {
               "id": 14,
-              "question": "Name one branch or part of the government.",
-              "options": ["Congress", "Parliament", "Supreme Leader", "Crown"],
-              "answer": "Congress"
+              "question": "What stops one branch of government from becoming too powerful?",
+              "options": [
+                "checks and balances",
+                "seperation of powers",
+                "the Bill of Rights",
+                "federal income tax"
+              ],
+              "answer": ["checks and balances", "seperation of powers"]
             },
             {
               "id": 15,
-              "question": "Name one branch or part of the government.",
-              "options": ["Congress", "Parliament", "Supreme Leader", "Crown"],
-              "answer": "Congress"
+              "question": "Who is in charge of the executive branch?",
+              "options": [
+                "the President",
+                "the Chief Justices",
+                "the Speaker of the House",
+                "the Senate Majority Leader"
+              ],
+              "answer": "the President"
             },
             {
               "id": 16,
