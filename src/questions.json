@@ -474,39 +474,70 @@
             },
             {
               "id": 42,
-              "question": "Name one branch or part of the government.",
-              "options": ["Congress", "Parliament", "Supreme Leader", "Crown"],
-              "answer": "Congress"
+              "question": "Under our Constitution, some powers belong to the states. What is one power of the states?",
+              "options": [
+                "provide schooling and education",
+                "provide protection (police)",
+                "provide safety (fire departments)",
+                "give a driver's license",
+                "approve zoning and land use"
+              ],
+              "answer": [
+                "provide schooling and education",
+                "provide protection (police)",
+                "provide safety (fire departments)",
+                "give a driver's license",
+                "approve zoning and land use"
+              ]
             },
             {
               "id": 43,
-              "question": "Name one branch or part of the government.",
-              "options": ["Congress", "Parliament", "Supreme Leader", "Crown"],
-              "answer": "Congress"
+              "question": "Who is the Governor of your state now?",
+              "options": [
+                "Gavin Newsom",
+                "Eleni Kounalakis",
+                "Kevin McCarthy",
+                "Alex Padilla"
+              ],
+              "answer": "Gavin Newsom"
             },
             {
               "id": 44,
-              "question": "Name one branch or part of the government.",
-              "options": ["Congress", "Parliament", "Supreme Leader", "Crown"],
-              "answer": "Congress"
+              "question": "What is the capital of your state?",
+              "options": [
+                "Sacramento",
+                "Los Angeles",
+                "San Francisco",
+                "San Diego"
+              ],
+              "answer": "Sacramento"
             },
             {
               "id": 45,
-              "question": "Name one branch or part of the government.",
-              "options": ["Congress", "Parliament", "Supreme Leader", "Crown"],
-              "answer": "Congress"
+              "question": "What are the two major political parties in the United States?",
+              "options": [
+                "Democratic and Republican",
+                "American People Party",
+                "Republican and Libertarian"
+              ],
+              "answer": "Democratic and Republican"
             },
             {
               "id": 46,
-              "question": "Name one branch or part of the government.",
-              "options": ["Congress", "Parliament", "Supreme Leader", "Crown"],
-              "answer": "Congress"
+              "question": "What is the political party of the President now?",
+              "options": ["Democratic", "Republican", "Libertarian"],
+              "answer": "Republican"
             },
             {
               "id": 47,
-              "question": "Name one branch or part of the government.",
-              "options": ["Congress", "Parliament", "Supreme Leader", "Crown"],
-              "answer": "Congress"
+              "question": "What is the name of the Speaker of the House of Representatives now?",
+              "options": [
+                "Mike Johnson",
+                "Hakeem Jeffries",
+                "Nancy Pelosi",
+                "Kevin McCarthy"
+              ],
+              "answer": "Mike Johnson"
             }
           ]
         },
