@@ -557,25 +557,25 @@
             },
             {
               "id": 49,
-              "question": "There are four amendments to the Constitution about who can vote. Describe one of them.",
+              "question": "What is one responsibility that is only for United States citizens?",
               "options": [
-                "Citizens eighteen (18) and older (can vote)",
-                "You don't have to pay (a poll tax) to vote",
-                "Any citizen can vote. (Women and men can vote)",
-                "A male citizen of any race (can vote)."
+                "serve on a jury",
+                "vote in a federal election",
+                "pay taxes",
+                "obey the law"
               ],
-              "answer": "All of the above"
+              "answer": ["serve on a jury", "vote in a federal election"]
             },
             {
               "id": 50,
-              "question": "There are four amendments to the Constitution about who can vote. Describe one of them.",
+              "question": "Name one right only for United States citizens.",
               "options": [
-                "Citizens eighteen (18) and older (can vote)",
-                "You don't have to pay (a poll tax) to vote",
-                "Any citizen can vote. (Women and men can vote)",
-                "A male citizen of any race (can vote)."
+                "vote in a federal election",
+                "run for federal office",
+                "free speech",
+                "freedom of religion"
               ],
-              "answer": "All of the above"
+              "answer": ["vote in a federal election", "run for federal office"]
             },
             {
               "id": 51,
