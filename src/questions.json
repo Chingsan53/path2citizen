@@ -328,75 +328,149 @@
             },
             {
               "id": 30,
-              "question": "Name one branch or part of the government.",
-              "options": ["Congress", "Parliament", "Supreme Leader", "Crown"],
-              "answer": "Congress"
+              "question": "If the President can no longer serve, who becomes President?",
+              "options": [
+                "the Vice President",
+                "Reelected for a new President",
+                "Supreme Leader",
+                "the Speaker of the House"
+              ],
+              "answer": "the Vice President"
             },
             {
               "id": 31,
-              "question": "Name one branch or part of the government.",
-              "options": ["Congress", "Parliament", "Supreme Leader", "Crown"],
-              "answer": "Congress"
+              "question": "If both the President and the Vice President can no longer serve, who becomes President?",
+              "options": [
+                "the Speaker of the House",
+                "the Chief Justice",
+                "the Secretary of State",
+                "the President Pro Tempore"
+              ],
+              "answer": "the Speaker of the House"
             },
             {
               "id": 32,
-              "question": "Name one branch or part of the government.",
-              "options": ["Congress", "Parliament", "Supreme Leader", "Crown"],
-              "answer": "Congress"
+              "question": "Who is the Commander in Chief of the military?",
+              "options": [
+                "the President",
+                "the Secretary of Defense",
+                "the Chairman of the Joint Chiefs of Staff",
+                "the Vice President"
+              ],
+              "answer": "the President"
             },
             {
               "id": 33,
-              "question": "Name one branch or part of the government.",
-              "options": ["Congress", "Parliament", "Supreme Leader", "Crown"],
-              "answer": "Congress"
+              "question": "Who signs bills to become laws?",
+              "options": [
+                "the President",
+                "the Vice President",
+                "the Speaker of the House",
+                "the Chief Justice"
+              ],
+              "answer": "the President"
             },
             {
               "id": 34,
-              "question": "Name one branch or part of the government.",
-              "options": ["Congress", "Parliament", "Supreme Leader", "Crown"],
-              "answer": "Congress"
+              "question": "Who vetoes bills?",
+              "options": [
+                "the President",
+                "the Vice President",
+                "the Speaker of the House",
+                "the Chief Justice"
+              ],
+              "answer": "the President"
             },
             {
               "id": 35,
-              "question": "Name one branch or part of the government.",
-              "options": ["Congress", "Parliament", "Supreme Leader", "Crown"],
-              "answer": "Congress"
+              "question": "What does the President's Cabinet do?",
+              "options": [
+                "advises the President",
+                "passes laws",
+                "commands the military",
+                "interprets the Constitution"
+              ],
+              "answer": "advises the President"
             },
             {
               "id": 36,
-              "question": "Name one branch or part of the government.",
-              "options": ["Congress", "Parliament", "Supreme Leader", "Crown"],
-              "answer": "Congress"
+              "question": "What are two Cabinet-level positions?",
+              "options": [
+                "Secretary of Agriculture",
+                "Secretary of Commerce",
+                "Secretary of Defense",
+                "Secretary of Education",
+                "Secretary of Energy",
+                "Secretary of Health and Human Services",
+                "Secretary of Homeland Security",
+                "All of the above"
+              ],
+              "answer": ["Secretary of Agriculture", "Secretary of Commerce"]
             },
             {
               "id": 37,
-              "question": "Name one branch or part of the government.",
-              "options": ["Congress", "Parliament", "Supreme Leader", "Crown"],
-              "answer": "Congress"
+              "question": "What does the judicial branch do?",
+              "options": [
+                "reviews laws",
+                "explains laws",
+                "resolves disputes (disagreements)",
+                "decides if a law goes against the Constitution"
+              ],
+              "answer": [
+                "reviews laws",
+                "explains laws",
+                "resolves disputes (disagreements)",
+                "decides if a law goes against the Constitution"
+              ]
             },
             {
               "id": 38,
-              "question": "Name one branch or part of the government.",
-              "options": ["Congress", "Parliament", "Supreme Leader", "Crown"],
-              "answer": "Congress"
+              "question": "What is the highest court in the United States?",
+              "options": [
+                "the Supreme Court",
+                "the Court of Appeals",
+                "the District Court",
+                "the Federal Court"
+              ],
+              "answer": "the Supreme Court"
             },
             {
               "id": 39,
-              "question": "Name one branch or part of the government.",
-              "options": ["Congress", "Parliament", "Supreme Leader", "Crown"],
-              "answer": "Congress"
+              "question": "How many justices are on the Supreme Court?",
+              "options": [
+                "nine (9)",
+                "seven (7)",
+                "twelve (12)",
+                "eleven (11)"
+              ],
+              "answer": "nine (9)"
             },
             {
               "id": 40,
-              "question": "Name one branch or part of the government.",
-              "options": ["Congress", "Parliament", "Supreme Leader", "Crown"],
-              "answer": "Congress"
+              "question": "Who is the Chief Justice of the United States now?",
+              "options": [
+                "John G. Roberts, Jr.",
+                "Clarence Thomas",
+                "Samuel A. Alito, Jr.",
+                "Sonia Sotomayor"
+              ],
+              "answer": "John G. Roberts, Jr."
             },
             {
               "id": 41,
-              "question": "Name one branch or part of the government.",
-              "options": ["Congress", "Parliament", "Supreme Leader", "Crown"],
-              "answer": "Congress"
+              "question": "Under our Constitution, some powers belong to the federal government. What is one power of the federal government?",
+              "options": [
+                "to print money",
+                "to declare war",
+                "to create an army",
+                "to make treaties"
+              ],
+              "answer": [
+                "to print money",
+                "to declare war",
+                "to create an army",
+                "to make treaties"
+              ]
             },
             {
               "id": 42,
